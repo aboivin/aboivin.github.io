@@ -49,7 +49,7 @@ show_excerpts: true
 texture:
   showPicker: false # show the texture selector(development purposes)
   style: black
-  showNav: true
+  showNav: false
   title: Arnaud Boivin
   tagline: Tech blog
   date_format: "%b %-d, %Y"
