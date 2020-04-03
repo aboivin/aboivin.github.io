@@ -87,6 +87,7 @@ SYSCALL_DEFINE3(write, unsigned int, fd, const char __user *, buf,
 This code will effectively write to the standard output our `First post!\n` message.
 
 
+### Fast system calls
 
 
 ```nasm
